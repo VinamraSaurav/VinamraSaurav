@@ -1,5 +1,7 @@
 ### Hi there 👋
-
+[![VinamraSaurav's GitHub | Stats](https://stats.quine.sh/VinamraSaurav/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=VinamraSaurav)
+[![VinamraSaurav's GitHub | Dependencies](https://stats.quine.sh/VinamraSaurav/dependencies?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=VinamraSaurav)
+[![VinamraSaurav's GitHub | Languages Over Time](https://stats.quine.sh/VinamraSaurav/languages-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=VinamraSaurav)
 <!--
 **VinamraSaurav/VinamraSaurav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
