@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **NUXT, Express.js**
 
-- 👨‍💻 All of my projects are available at [www.vinamra-saurav.vercel.app](www.vinamra-saurav.vercel.app)
+- 👨‍💻 All of my projects are available at [My Portfolio](https://www.vinamra-saurav.vercel.app)
 
 - 💬 Ask me about **React.js, Next.js, JavaScript**
 
