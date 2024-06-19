@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vinamra Saurav</h1>
-<h3 align="center">A passionate developer from India || Student 👨‍🎓 || React Developer || Competitive Programming || Web Development</h3>
+<h3 align="center">A passionate developer from India || Student 👨‍🎓 || Developer || Competitive Programming || Web Development</h3>
 
 
 - 🔭 I’m currently working on **PromptGPT**
