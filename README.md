@@ -2,9 +2,7 @@
 <h3 align="center">A passionate developer from India || Student 👨‍🎓 || Developer || Competitive Programming || Web Development</h3>
 
 
-- 🔭 I’m currently working on **PromptGPT**
-
-- 🌱 I’m currently learning **NUXT, Express.js**
+- 🌱 I’m currently exploring **ML**
 
 - 👨‍💻 All of my projects are available at [My Portfolio](https://vinamra-saurav.vercel.app/)
 
