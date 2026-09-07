@@ -4,9 +4,9 @@
 
 - 🌱 I’m currently exploring **ML**
 
-- 👨‍💻 All of my projects are available at [My Portfolio](https://vinamra-saurav.vercel.app/)
+- 👨‍💻 All of my projects are available at [My Portfolio](https://vinamra.tech)
 
-- 💬 Ask me about **React.js, Next.js, JavaScript**
+- 💬 Ask me about **React.js, Next.js, JavaScript, Flask, FastAPI, PostgresSQL, AWS ECS, EC2, DynamoDB, Cloudfront, Temporal Workflows**
 
 - 📫 How to reach me **vindev1715@gmail.com**
 
