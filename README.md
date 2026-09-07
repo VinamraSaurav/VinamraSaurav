@@ -10,7 +10,6 @@
 
 - 📫 How to reach me **vindev1715@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1gsxtMR93QmPGid3BQEG2O8oJ1HX9ycyu/view?usp=sharing](https://drive.google.com/file/d/1gsxtMR93QmPGid3BQEG2O8oJ1HX9ycyu/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
